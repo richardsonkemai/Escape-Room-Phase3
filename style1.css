@@ -1,0 +1,50 @@
+body {
+	width: 100vw;
+	height: 100vh;
+	margin: 0;
+	display: flex;
+}
+
+
+.col {
+	height: 100%;
+	width: calc(100%/3);
+	display: block;
+}
+
+.characters{
+	height:calc(100%/6);
+	width: 100%;
+	display: block;
+}
+
+.baby{
+	height: 100%;
+	width: 100%;
+}
+
+.aqua{
+	background-color: #7FFFD4;
+}
+
+.navy{
+	background-color: #000080;
+}
+
+.cream{
+	background-color:#F5F5DC;
+}
+
+.blue{
+background-color:#0000FF;
+}
+
+.powder{
+	background-color:#6495ED;
+}
+.sea{
+	background-color:#008B8B;
+}
+.black{
+	background-color:#000000;
+}
